@@ -5,11 +5,41 @@ The title of the webpage
 </title>
 </head>
 <body bgcolor="#ccffcc" >
-<h1>This is my Heading</h1>
-This is where information to be presented to the user is entered.
+<html>
+<h1>Lesson 2 Practice on ANCHOR</h1>
+
+<p>The image is a link. You can click on it.</p>
+<a href="https://www.channelnewsasia.com/news/singapore/direct-school-admission-dsa-secondary-schools-psle-portal-11506808"> 
+<image src="ok/cna-default-image" >
+</a>
+
+
+The Direct School Admission (DSA) Exercise aims to promote holistic education by giving participating schools greater flexibility in selecting students while holding to the key principles of transparency and meritocracy. For students, the DSA provides them the opportunity to demonstrate a more diverse range of achievements and talents in seeking admission to secondary schools.
+
+
+Direct School Admission for secondary schools (DSA-Sec) allows students to apply to some schools before taking the PSLE.
+
+Students apply based on their talent in sports, CCAs and specific academic areas.
+
+If your child is admitted to a secondary school through DSA-Sec, they are not allowed to:
+
+Submit school choices during the Secondary 1 (S1) posting process.
+Transfer to another school. They must commit to their chosen school for the duration of the programme.
+
+
+
+
+Primary 6 students can apply for DSA-Sec based on a wide-range of talents, including:
+
+Sports and games
+Visual, literary and performing arts
+Debate and public speaking
+Science, mathematics and engineering
+Languages and humanities
+Uniformed groups
+Leadership (for example, prefects)
+
+<a href="https://beta.moe.gov.sg/secondary/dsa/application/">Introduction of how to apply for DSA</a>
+
 </body>
 </html>
-
-the body of the web page. <br />this is more text
-<p>this is the first paragraph</p>
-<p>this is the second paragraph</p>
